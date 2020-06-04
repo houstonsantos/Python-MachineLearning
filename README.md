@@ -14,6 +14,13 @@ Neste repositório compartilho minhas experiências no inicio dos estudos sobre 
 #### Associação
 - Apriori
 
+#### Categorical Encoding
+- Label Encoding
+- One-Hot Encoding
+- Feature Scaling
+  - Padronização
+  - Normalização
+
 #### Classificação
 - Adaboost
 - Árvore de Decisão
@@ -23,17 +30,19 @@ Neste repositório compartilho minhas experiências no inicio dos estudos sobre 
 - Seleção de Atributos
 - SVM
 
-#### Categorical Encoding
-- Label Encoding
-- One-Hot Encoding
-- Feature Scaling
-  - Padronização
-  - Normalização
 #### Distribuição
 - Binomial
 - Normal
 - Poisson
 - T Student
+
+#### Estatística
+- Amostra Aleatória
+- Amostra Extratificada
+- Amostra Sistemática
+- Anova
+- Amostra
+- QuiQuadrado
 
 #### Gráficos
 - 3D
@@ -58,8 +67,3 @@ Neste repositório compartilho minhas experiências no inicio dos estudos sobre 
 - Logística
 
 #### Séries Temporais
-
-#### Estatística
-- Anova
-- Amostra
-- QuiQuadrado

@@ -41,7 +41,6 @@ Neste repositório compartilho minhas experiências no inicio dos estudos sobre 
 - Amostra Extratificada
 - Amostra Sistemática
 - Anova
-- Amostra
 - QuiQuadrado
 
 #### Gráficos

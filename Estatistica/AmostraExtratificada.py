@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 # Amostra Estratificada
 
 # Importando base de dados
-iris = pd.read_csv('dados/Iris.csv')
+iris = pd.read_csv('./Dados/Iris.csv')
 iris['class'].value_counts()
 
 # Criando amostra
@@ -15,7 +15,7 @@ y.value_counts()
 
 
 # Importando base de dados
-infert = pd.read_csv('dados/Infert.csv')
+infert = pd.read_csv('./Dados/Infert.csv')
 infert['education'].value_counts()
 
 # Criando amostra

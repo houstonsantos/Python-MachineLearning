@@ -5,7 +5,7 @@ import numpy as np
 # Amostra Sistemática
 
 # Importando base de dados
-base = pd.read_csv('dados/Iris.csv')
+base = pd.read_csv('./Dados/Iris.csv')
 base
 
 # Criando a semente

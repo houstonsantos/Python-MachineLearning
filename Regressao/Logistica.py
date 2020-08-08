@@ -42,7 +42,7 @@ r = model(teste * modelo.coef_ + modelo.intercept_).ravel()
 plt.plot(teste, r, color = 'red')
 
 # Importando base de dados para teste
-previsoes = pd.read_csv('dados/NovosCandidatos.csv', sep =';')
+previsoes = pd.read_csv('./Dados/NovosCandidatos.csv', sep =';')
 
 # Criando estrutura de dados para teste
 despesas = previsoes.iloc[:, 1].values

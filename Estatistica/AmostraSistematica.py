@@ -26,5 +26,5 @@ for i in range(amostra):
     acumulador += k
 
 # Carregando arquivo iris.csv
-base = pd.read_csv('dados/Iris.csv')
+base = pd.read_csv('./Dados/Iris.csv')
 base_final = base.loc[sorteados]

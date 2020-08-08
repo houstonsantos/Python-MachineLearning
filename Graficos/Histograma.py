@@ -22,7 +22,7 @@ sns.distplot(base['Height'], color = 'blue', hist_kws = {'edgecolor': 'black'}, 
 sns.distplot(base['Height'], color = 'blue', hist_kws = {'edgecolor': 'black'}, bins = 6, hist = True, kde = True)
 
 # Histograma condicional - comparação de uma variável contínua x categórica
-sns.distplot(base.Volume, bins = 10, axlabel = 'Volume').set_title['Árvore']
+sns.distplot(base.Volume, bins = 10, axlabel = 'Volume').set_title('Árvore')
 
 # Carregando base de dados
 base = pd.read_csv('./Dados/Chicken.csv')

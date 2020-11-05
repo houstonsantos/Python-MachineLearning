@@ -161,6 +161,3 @@ grafo.neighborhood()
 
 grafo2 = grafo
 grafo.isomorphic(grafo2)
-
-
-#
